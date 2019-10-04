@@ -13,6 +13,6 @@ DiscreteMath Assignment1-3 (Numbrix)
 #####  -You can use this code by using txt file and .c file in Linux.
 #####  -I'll use Putty for execution
 #####  -Compile and draft the txt file that you want to solve.
-#####  -_In text File_: You must use _'?_for blank cell and _space_for between cell and cell
+#####  -_In text File_: You must use **'?'**for blank cell and **space** for between cell and cell
 #####  -When you draft the .txt file it should be written like ex) ./a.out test.txt
 #####  -Then you can see result of solved puzzle.
